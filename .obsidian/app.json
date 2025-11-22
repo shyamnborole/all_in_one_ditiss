@@ -12,6 +12,19 @@
     "EIGRP",
     "ASBR",
     "root",
-    "DLCI"
+    "DLCI",
+    "NFQUEUE",
+    "NFQUEUE",
+    "queue-num",
+    "queue-num",
+    "suricata",
+    "SURICATA",
+    "Suricata",
+    "Suricata",
+    "Suricata",
+    "Suricata",
+    "Suricata",
+    "bg",
+    "fg"
   ]
 }

@@ -1237,3 +1237,16 @@ curl -O http://example.com/file.zip
 ```
 
 **[⬆ Back to Top](#table-of-contents)**
+
+
+- Run a process in background 
+  - `python server.py &` 
+    the & runs this command in background and frees the terminal
+    to see the background running processes, use bg command and bring it in foreground use fg command.
+
+- **Run a process continuously even after crash and in background**
+  Method 1 ->
+	  use `nohup` --- even if crashed, it will automatically restart.
+  Method 2 ->
+	  Use pm2 or process manager(Industry standard application manager)
+	  First Install Node.js using the Node.js script on there official website.

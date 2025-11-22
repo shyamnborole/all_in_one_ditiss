@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mustknows/Linux-cheat-sheet-master/README.md",
+                "file": "mustknows/Linux basic cybersecurity commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Linux basic cybersecurity commands"
+            }
+          },
+          {
+            "id": "55cacd31db57ee07",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ]
@@ -178,53 +190,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4514940282d85d3c",
+  "active": "fb905b32bd83e92e",
   "lastOpenFiles": [
-    "RapidSheet_Answers",
-    "NDC & PKI/Day 2/2. SNORT Setup.md",
-    "NDC & PKI/Day 2/3. SNORT Rules.md",
-    "NDC & PKI/Day 2/4. Network Adapters in VMWare.md",
     "mustknows/Linux-cheat-sheet-master/README.md",
-    "NDC & PKI/Day 2/1. Overview of SNORT.md",
+    "Operating Systems & Administration/DNS Heirarchy.md",
+    "mustknows/README.md",
+    "NDC & PKI/Day 1/7. Extra.md",
     "NDC & PKI/Day 1/6. TCPdump.md",
     "NDC & PKI/Day 1/5. Hash Function.md",
     "NDC & PKI/Day 1/4. Wireshark.md",
-    "NDC & PKI/Day 1/3. Software Vulnerabilities.md",
-    "NDC & PKI/Day 1/2. Information Security.md",
-    "NDC & PKI/Day 1/1. Overview and Revision.md",
-    "Computer Networks/Day 3/5. Transport Layer.md",
-    "Computer Networks/Day 3/4. Data Link and Network Layer.md",
-    "Computer Networks/Day 3/3. Physical Layer.md",
-    "Computer Networks/Day 3/2. OSI Model.md",
-    "Computer Networks/Day 3/1. IP Addresses and Switching.md",
-    "Computer Networks/Day 2/3. Routers and Subnets.md",
-    "Computer Networks/Day 2/2. Switches and Networks.md",
-    "Computer Networks/Day 2/1. ARP (Address Resolution Protocol).md",
+    "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
+    "NDC & PKI/Day 3/4. Monitoring Health of a Machine.md",
+    "NDC & PKI/Day 3/6. Nagios Setup.md",
+    "NDC & PKI/Day 3/5. Package Installation in Linux.md",
+    "NDC & PKI/Day 3/4. nagios.png",
     "mustknows/Linux-cheat-sheet-master/images/permissions.png",
-    "mustknows/README.md",
+    "NDC & PKI/Day 8/2. SNORT on Linux (LAB 2).md",
+    "NDC & PKI/Day 10/1. PKI Lab using OpenSSL in CLI.md",
+    "NDC & PKI/Day 10/5.DNS Config(Detailed).md",
+    "NDC & PKI.zip",
+    "NDC & PKI/Day 6/4. Installing and Configuring pfSense with Debian Machines.md",
+    "NDC & PKI/Day 6/3. iptables-save-configuration.png",
+    "NDC & PKI/Day 11/5. Extra.md",
+    "NDC & PKI/Day 11/4. Nagios Lab with Email Alert.md",
+    "NDC & PKI/Day 12/1. Adding another client PKI Lab.md",
+    "NDC & PKI/Day 5/7. Squid as a Load Balancer.md",
+    "NDC & PKI/Day 9/4. BARNYARD2 and SNORT.md",
+    "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
+    "NDC & PKI/Day 5/3. OpenVPN Setup.md",
+    "NDC & PKI/Day 4/5. Reverse Proxy Setup with Nginx and Apache.md",
+    "NDC & PKI/Day 9/5. Suricata.md",
+    "NDC & PKI/Day 2/3. SNORT Rules.md",
     "mustknows/Port numbers.md",
+    "NDC & PKI/Day 6/2. iptables.png",
+    "NDC & PKI/Day 7/2. Screened Host Firewall (single-homed bastion host).png",
+    "NDC & PKI/Day 8/5. Split Tunnel.png",
+    "NDC & PKI/Day 7/6. Assignment.png",
+    "Operating Systems & Administration/Day 3/2. Redirection.png",
+    "Operating Systems & Administration/Day 2/4. Executable File.png",
+    "Operating Systems & Administration/Day 3/3. Pipes.png",
+    "RapidSheet_Answers/Untitled",
+    "RapidSheet_Answers",
     "mustknows/Linux-cheat-sheet-master/images",
     "mustknows/Linux-cheat-sheet-master/~",
     "mustknows/Linux-cheat-sheet-master",
-    "Compliance Audit/Day 3/2. CIS Critical Security Controls (01, 02, 03).md",
-    "Compliance Audit/Day 3/3. CIS Critical Security Controls (04, 05, 06,).md",
-    "mustknows/Linux basic cybersecurity commands.md",
-    "Compliance Audit/Day 2/2. Health Insurance Portability and Accountability Act (HIPAA).md",
     "mustknows",
     "Untitled.base",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "Operating Systems & Administration/Day 6/images/2. Micro.png",
-    "Computer Networks/Day 8/2. OSPF Architecture.png",
-    "Computer Networks/Day 5/router-arch.png",
-    "Computer Networks/Day 5/cisco-router.png",
-    "NDC & PKI/Day 11/3. IPSec Tunnel Mode with Authentication Header.png",
-    "Cyber Forensics/Day 4",
-    "Cyber Forensics/Day 3",
-    "Cyber Forensics/Day 2",
-    "Operating Systems & Administration/Day 7/images/2. Symbolic Link.png",
-    "Operating Systems & Administration/Day 7/images/2. Hard Link.png",
-    "Operating Systems & Administration/Day 7/images/1. Dual.png",
-    "Operating Systems & Administration/Day 5/images/3. Env.png"
+    "Untitled 1.base"
   ]
 }
