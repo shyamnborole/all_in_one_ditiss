@@ -11,26 +11,12 @@
             "id": "fb905b32bd83e92e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "mustknows/Linux basic cybersecurity commands.md",
-                "mode": "source",
-                "source": false
+                "file": "Security Concepts/Mobile Security.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Linux basic cybersecurity commands"
-            }
-          },
-          {
-            "id": "55cacd31db57ee07",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file-text",
+              "title": "Mobile Security"
             }
           }
         ]
@@ -192,6 +178,12 @@
   },
   "active": "fb905b32bd83e92e",
   "lastOpenFiles": [
+    "Security Concepts/Mobile Security.pdf",
+    "RapidSheet_Answers/IITM and DEVOPS.md",
+    "Untitled 2.base",
+    "README.md",
+    "Untitled 1.base",
+    "mustknows/Linux basic cybersecurity commands.md",
     "mustknows/Linux-cheat-sheet-master/README.md",
     "Operating Systems & Administration/DNS Heirarchy.md",
     "mustknows/README.md",
@@ -218,10 +210,6 @@
     "NDC & PKI/Day 9/4. BARNYARD2 and SNORT.md",
     "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
     "NDC & PKI/Day 5/3. OpenVPN Setup.md",
-    "NDC & PKI/Day 4/5. Reverse Proxy Setup with Nginx and Apache.md",
-    "NDC & PKI/Day 9/5. Suricata.md",
-    "NDC & PKI/Day 2/3. SNORT Rules.md",
-    "mustknows/Port numbers.md",
     "NDC & PKI/Day 6/2. iptables.png",
     "NDC & PKI/Day 7/2. Screened Host Firewall (single-homed bastion host).png",
     "NDC & PKI/Day 8/5. Split Tunnel.png",
@@ -235,8 +223,6 @@
     "mustknows/Linux-cheat-sheet-master/~",
     "mustknows/Linux-cheat-sheet-master",
     "mustknows",
-    "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.base"
+    "Untitled.base"
   ]
 }
