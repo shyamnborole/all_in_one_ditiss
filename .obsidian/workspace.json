@@ -11,15 +11,32 @@
             "id": "fb905b32bd83e92e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Security Concepts/Mobile Security.pdf"
+                "file": "NDC & PKI/Day 5/8. Monitoring a Remote Linux Machine using Nagios.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Mobile Security"
+              "icon": "lucide-file",
+              "title": "8. Monitoring a Remote Linux Machine using Nagios"
+            }
+          },
+          {
+            "id": "cb8cb048880d076b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mustknows/Linux basic cybersecurity commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux basic cybersecurity commands"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,53 +193,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb905b32bd83e92e",
+  "active": "cb8cb048880d076b",
   "lastOpenFiles": [
-    "Security Concepts/Mobile Security.pdf",
-    "RapidSheet_Answers/IITM and DEVOPS.md",
-    "Untitled 2.base",
-    "README.md",
-    "Untitled 1.base",
-    "mustknows/Linux basic cybersecurity commands.md",
     "mustknows/Linux-cheat-sheet-master/README.md",
-    "Operating Systems & Administration/DNS Heirarchy.md",
-    "mustknows/README.md",
-    "NDC & PKI/Day 1/7. Extra.md",
-    "NDC & PKI/Day 1/6. TCPdump.md",
-    "NDC & PKI/Day 1/5. Hash Function.md",
-    "NDC & PKI/Day 1/4. Wireshark.md",
-    "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
-    "NDC & PKI/Day 3/4. Monitoring Health of a Machine.md",
-    "NDC & PKI/Day 3/6. Nagios Setup.md",
-    "NDC & PKI/Day 3/5. Package Installation in Linux.md",
+    "GEMINI.md",
+    "Case Study Risk Assessment.md",
+    "Security Concepts/Day 12/1. SSH Password Cracking Brute Force.md",
+    "Important Things!.md",
+    "Operating Systems & Administration/Day 4/1. Few more Commands.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "README.md",
+    "NDC & PKI/Day 7/5. LAB 3 GeoIP Traffic Filtering and Logging.md",
+    "Security Concepts/Day 6/2. Android Hacking with Kali Linux (.apk Payload).md",
+    "Security Concepts/Day 6/1. Phishing and Information Gathering.md",
+    "Security Concepts/Day 5/2. HTTP Redirection and Server Configuration.md",
+    "Security Concepts/Day 5/1. Web Exploits XSS and Command Injection.md",
+    "Security Concepts/Day 4/3. Assignment (DNS Spoofing).md",
+    "Security Concepts/Day 4/2. Bypassing OTP Verification.md",
+    "Security Concepts/Day 4/1. Web App Security Vulnerabilities and Attacks.md",
+    "Security Concepts/Day 3/3. Social Presence and Its Role in Social Engineering.md",
+    "Windows Administration Revision/06_PowerShell_and_Automation.md",
+    "Windows Administration Revision/05_Security_Maintenance_and_Troubleshooting.md",
+    "Windows Administration Revision/01_Introduction_and_Installation.md",
+    "Windows Administration Revision/02_Network_Configuration.md",
+    "Windows Administration Revision/03_File_System_and_Disk_Management.md",
+    "Windows Administration Revision/04_Active_Directory.md",
+    "Windows Administration/Day 4/1. Revise.md",
+    "Windows Administration/Day 3/2. Domain Naming System (DNS).md",
+    "Windows Administration/Day 3/1. Trust.md",
+    "Windows Administration/Day 2/3. Active Directory.md",
+    "Operating Systems & Administration/Day 4/3. Types of Operating System.md - Shortcut.lnk",
+    "Operating Systems & Administration/Day 4/1. Few more Commands.md - Shortcut.lnk",
+    "Operating Systems & Administration/Day 4/images - Shortcut.lnk",
+    "Operating Systems & Administration/Day 4/5. Steps for VIM.md - Shortcut.lnk",
+    "Operating Systems & Administration/Day 4/4. Grep (GNU Regular Expression Parser).md - Shortcut.lnk",
+    "NDC & PKI/Day 6/3. iptables-save-configuration.png",
+    "NDC & PKI/Day 7/1. PKI.png",
+    "Security Concepts/Mobile Security.pdf",
     "NDC & PKI/Day 3/4. nagios.png",
     "mustknows/Linux-cheat-sheet-master/images/permissions.png",
-    "NDC & PKI/Day 8/2. SNORT on Linux (LAB 2).md",
-    "NDC & PKI/Day 10/1. PKI Lab using OpenSSL in CLI.md",
-    "NDC & PKI/Day 10/5.DNS Config(Detailed).md",
     "NDC & PKI.zip",
-    "NDC & PKI/Day 6/4. Installing and Configuring pfSense with Debian Machines.md",
-    "NDC & PKI/Day 6/3. iptables-save-configuration.png",
-    "NDC & PKI/Day 11/5. Extra.md",
-    "NDC & PKI/Day 11/4. Nagios Lab with Email Alert.md",
-    "NDC & PKI/Day 12/1. Adding another client PKI Lab.md",
-    "NDC & PKI/Day 5/7. Squid as a Load Balancer.md",
-    "NDC & PKI/Day 9/4. BARNYARD2 and SNORT.md",
-    "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
-    "NDC & PKI/Day 5/3. OpenVPN Setup.md",
     "NDC & PKI/Day 6/2. iptables.png",
     "NDC & PKI/Day 7/2. Screened Host Firewall (single-homed bastion host).png",
     "NDC & PKI/Day 8/5. Split Tunnel.png",
     "NDC & PKI/Day 7/6. Assignment.png",
     "Operating Systems & Administration/Day 3/2. Redirection.png",
-    "Operating Systems & Administration/Day 2/4. Executable File.png",
-    "Operating Systems & Administration/Day 3/3. Pipes.png",
-    "RapidSheet_Answers/Untitled",
-    "RapidSheet_Answers",
-    "mustknows/Linux-cheat-sheet-master/images",
-    "mustknows/Linux-cheat-sheet-master/~",
-    "mustknows/Linux-cheat-sheet-master",
-    "mustknows",
-    "Untitled.base"
+    "Operating Systems & Administration/Day 2/4. Executable File.png"
   ]
 }

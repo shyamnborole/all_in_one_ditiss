@@ -163,13 +163,13 @@ Here's a comprehensive list of 50+ essential Linux commands for cybersecurity, o
 55. **`uname`** - System information
     - `uname -a` (all info)
 
-56. **`df`** - Disk space usage
+56. **`df`** - Disk space usage(disk free)
     - `df -h` (human readable)
 
-57. **`du`** - Directory space usage
+57. **`du`** - Directory space usage(directory usage)
     - `du -sh /var/log` (summary of directory size)
 
-58. **`free`** - Memory usage
+58. **`free`** - Memory usage(RAM)
     - `free -h`
 
 59. **`dmidecode`** - Hardware information

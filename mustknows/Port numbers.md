@@ -4,28 +4,30 @@ Here's a comprehensive guide to essential port numbers for cybersecurity:
 
 ### **Top 20 Most Essential Ports**
 
-| Port        | Protocol | Service | Purpose               | Security Notes                 |
-| ----------- | -------- | ------- | --------------------- | ------------------------------ |
-| **20/21**   | TCP      | FTP     | File Transfer         | Unencrypted, avoid if possible |
-| **22**      | TCP      | SSH     | Secure Shell          | Encrypted remote access        |
-| **23**      | TCP      | Telnet  | Remote Login          | **Insecure** - no encryption   |
-| **25**      | TCP      | SMTP    | Email Sending         | Mail transfer between servers  |
-| **53**      | TCP/UDP  | DNS     | Domain Name System    | Converts names to IP addresses |
-| **67/68**   | UDP      | DHCP    | Dynamic Host Config   | IP address assignment          |
-| **80**      | TCP      | HTTP    | Web Traffic           | **Unencrypted** web browsing   |
-| **110**     | TCP      | POP3    | Email Retrieval       | Receive email from server      |
-| **123**     | UDP      | NTP     | Network Time Protocol | Time synchronization           |
-| **3306**    | TCP      | MySQL   | MySQL Database        | Popular database               |
-| **139**     | TCP      | NetBIOS | File/Printer Sharing  | Windows network services       |
-| **143**     | TCP      | IMAP    | Email Access          | More advanced than POP3        |
-| **161/162** | UDP      | SNMP    | Network Management    | Device monitoring              |
-| **443**     | TCP      | HTTPS   | Secure Web Traffic    | **Encrypted** web browsing     |
-| **445**     | TCP      | SMB     | File Sharing          | Windows file sharing           |
-| **993**     | TCP      | IMAPS   | Secure IMAP           | IMAP over SSL/TLS              |
-| **135**     | TCP      | RPC     | Remote Procedure Call | Windows services               |
-| **995**     | TCP      | POP3S   | Secure POP3           | POP3 over SSL/TLS              |
-| **1433**    | TCP      | MSSQL   | Microsoft SQL Server  | Database service               |
-| **3389**    | TCP      | RDP     | Remote Desktop        | Windows remote access          |
+| Port        | Protocol | Service | Purpose                        | Security Notes                                                   |
+| ----------- | -------- | ------- | ------------------------------ | ---------------------------------------------------------------- |
+| **20/21**   | TCP      | FTP     | File Transfer                  | Unencrypted, avoid if possible( User Authentication is Required) |
+| **22**      | TCP      | SSH     | Secure Shell                   | Encrypted remote access                                          |
+| **23**      | TCP      | Telnet  | Remote Login                   | **Insecure** - no encryption                                     |
+| **25**      | TCP      | SMTP    | Email Sending                  | Mail transfer between servers                                    |
+| **53**      | TCP/UDP  | DNS     | Domain Name System             | Converts names to IP addresses                                   |
+| **67/68**   | UDP      | DHCP    | Dynamic Host Config            | IP address assignment                                            |
+| **80**      | TCP      | HTTP    | Web Traffic                    | **Unencrypted** web browsing                                     |
+| **110**     | TCP      | POP3    | Email Retrieval                | Receive email from server                                        |
+| **123**     | UDP      | NTP     | Network Time Protocol          | Time synchronization                                             |
+| **3306**    | TCP      | MySQL   | MySQL Database                 | Popular database                                                 |
+| **139**     | TCP      | NetBIOS | File/Printer Sharing           | Windows network services                                         |
+| **143**     | TCP      | IMAP    | Email Access                   | More advanced than POP3                                          |
+| **161/162** | UDP      | SNMP    | Network Management             | Device monitoring                                                |
+| **443**     | TCP      | HTTPS   | Secure Web Traffic             | **Encrypted** web browsing                                       |
+| **445**     | TCP      | SMB     | File Sharing                   | Windows file sharing                                             |
+| **993**     | TCP      | IMAPS   | Secure IMAP                    | IMAP over SSL/TLS                                                |
+| **135**     | TCP      | RPC     | Remote Procedure Call          | Windows services                                                 |
+| **995**     | TCP      | POP3S   | Secure POP3                    | POP3 over SSL/TLS                                                |
+| **1433**    | TCP      | MSSQL   | Microsoft SQL Server           | Database service                                                 |
+| **3389**    | TCP      | RDP     | Remote Desktop                 | Windows remote access                                            |
+| 69          | UDP      | TFTP    | Trivial File Transfer Protocol | Unencrypted, Unreliable, Simple, No User Authentication          |
+|             |          |         |                                |                                                                  |
 
 ## 🛡️ **Port Categories for Security Analysis**
 
