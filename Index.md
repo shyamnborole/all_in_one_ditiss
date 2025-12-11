@@ -1,0 +1,482 @@
+# DITISS Study Resources Index
+
+This index provides a comprehensive overview of all the study materials in this repository. Click on the links to directly access the notes for each topic.
+
+## General
+
+- [Case Study: Risk Assessment](./Case%20Study%20Risk%20Assessment.md)
+- [Important Things!](./Important%20Things!.md)
+- [README](./README.md)
+- [GEMINI](./GEMINI.md)
+
+## Subjects
+
+### Compliance Audit
+
+- **Day 1**
+  - [1. Key Concepts](./Compliance%20Audit/Day%201/1.%20Key%20Concepts.md)
+  - [2. Information Security and Risk Assessment](./Compliance%20Audit/Day%201/2.%20Information%20Security%20and%20Risk%20Assessment.md)
+  - [3. Threats, Audit Types, and Security Policies](./Compliance%20Audit/Day%201/3.%20Threats,%20Audit%20Types,%20and%20Security%20Policies.md)
+  - [4. Understanding Intellectual Property Rights (IPR)](./Compliance%20Audit/Day%201/4.%20Understanding%20Intellectual%20Property%20Rights%20(IPR).md)
+- **Day 2**
+  - [1. PCI DSS (Payment Card Industry Data Security Standard)](./Compliance%20Audit/Day%202/1.%20PCI%20DSS%20(Payment%20Card%20Industry%20Data%20Security%20Standard).md)
+  - [2. Health Insurance Portability and Accountability Act (HIPAA)](./Compliance%20Audit/Day%202/2.%20Health%20Insurance%20Portability%20and%20Accountability%20Act%20(HIPAA).md)
+  - [3. NIST Cybersecurity Framework (CSF)](./Compliance%20Audit/Day%202/3.%20NIST%20Cybersecurity%20Framework%20(CSF).md)
+- **Day 3**
+  - [1. CIS Critical Security Controls](./Compliance%20Audit/Day%203/1.%20CIS%20Critical%20Security%20Controls.md)
+  - [2. CIS Critical Security Controls (01, 02, 03)](./Compliance%20Audit/Day%203/2.%20CIS%20Critical%20Security%20Controls%20(01,%2002,%2003).md)
+  - [3. CIS Critical Security Controls (04, 05, 06)](./Compliance%20Audit/Day%203/3.%20CIS%20Critical%20Security%20Controls%20(04,%2005,%2006,).md)
+  - [4. CIS Critical Security Controls (07, 08, 09)](./Compliance%20Audit/Day%203/4.%20CIS%20Critical%20Security%20Controls%20(07,%2008,%2009).md)
+  - [5. CIS Critical Security Controls (10, 11, 12)](./Compliance%20Audit/Day%203/5.%20CIS%20Critical%20Security%20Controls%20(10,%2011,%2012).md)
+  - [6. CIS Critical Security Controls (13, 14, 15)](./Compliance%20Audit/Day%203/6.%20CIS%20Critical%20Security%20Controls%20(13,%2014,%2015).md)
+  - [7. CIS Critical Security Controls (16, 17, 18)](./Compliance%20Audit/Day%203/7.%20CIS%20Critical%20Security%20Controls%20(16,%2017,%2018).md)
+  - [8. International Organisation for Standardisation (ISO) 27001](./Compliance%20Audit/Day%203/8.%20International%20Organisation%20for%20Standardisation%20(ISO)%2027001.md)
+  - [9. Assignment](./Compliance%20Audit/Day%203/9.%20Assignment.md)
+  - [10. GDPR](./Compliance%20Audit/Day%203/10.%20GDPR.md)
+  - [11. An Actual Compliance Audit](./Compliance%20Audit/Day%203/11.%20An%20Actual%20Compliance%20Audit.md)
+  - [12. Control Objectives for Information and Related Technology(COBIT)](./Compliance%20Audit/Day%203/12.%20Control%20Objectives%20for%20Information%20and%20Related%20Technology(COBIT).md)
+- **Day 4**
+  - [1. System and Organisations Control (SOC)](./Compliance%20Audit/Day%204/1.%20System%20and%20Organisations%20Control%20(SOC).md)
+  - [2. MITRE Att&ck Framework](./Compliance%20Audit/Day%204/2.%20MITRE%20Att&ck%20%20Framework.md)
+  - [3. Sarbanes-Oxley Act (SOX)](./Compliance%20Audit/Day%204/3.%20Sarbanes-Oxley%20Act%20(SOX).md)
+  - [5. Security Evaluation](./Compliance%20Audit/Day%204/5.%20Security%20Evaluation.md)
+  - [6. Common Criteria](./Compliance%20Audit/Day%204/6.%20Common%20Criteria.md)
+  - [7. Systems Security Engineering Capability Maturity Model (SSE-CMM)](./Compliance%20Audit/Day%204/7.%20Systems%20Security%20Engineering%20Capability%20Maturity%20Model%20(SSE-CMM).md)
+
+### Computer Networks
+
+- [Software Defined Network (SDN) by Sandeep Sir](./Computer%20Networks/Software%20Defined%20Network%20(SDN)%20by%20Sandeep%20Sir.md)
+- **Day 1**
+  - [1. Networks and its History](./Computer%20Networks/Day%201/1.%20Networks%20and%20its%20History.md)
+  - [2. Generations of Computation](./Computer%20Networks/Day%201/2.%20Generations%20of%20Computation.md)
+  - [3. Types of Networks](./Computer%20Networks/Day%201/3.%20Types%20of%20Networks.md)
+  - [4. Ethernet](./Computer%20Networks/Day%201/4.%20Ethernet.md)
+  - [5. Extra](./Computer%20Networks/Day%201/5.%20Extra.md)
+- **Day 2**
+  - [1. ARP (Address Resolution Protocol)](./Computer%20Networks/Day%202/1.%20ARP%20(Address%20Resolution%20Protocol).md)
+  - [2. Switches and Networks](./Computer%20Networks/Day%202/2.%20Switches%20and%20Networks.md)
+  - [3. Routers and Subnets](./Computer%20Networks/Day%202/3.%20Routers%20and%20Subnets.md)
+  - [Extra](./Computer%20Networks/Day%202/Extra.md)
+- **Day 3**
+  - [1. IP Addresses and Switching](./Computer%20Networks/Day%203/1.%20IP%20Addresses%20and%20Switching.md)
+  - [2. OSI Model](./Computer%20Networks/Day%203/2.%20OSI%20Model.md)
+  - [3. Physical Layer](./Computer%20Networks/Day%203/3.%20Physical%20Layer.md)
+  - [4. Data Link and Network Layer](./Computer%20Networks/Day%203/4.%20Data%20Link%20and%20Network%20Layer.md)
+  - [5. Transport Layer](./Computer%20Networks/Day%203/5.%20Transport%20Layer.md)
+- **Day 4**
+    - [1. Transport Layer](./Computer%20Networks/Day%204/1.%20Transport%20Layer.md)
+    - [2. Cabling](./Computer%20Networks/Day%204/2.%20Cabling.md)
+    - [3. Protocols](./Computer%20Networks/Day%204/3.%20Protocols.md)
+    - [4. Subnet Mask](./Computer%20Networks/Day%204/4.%20Subnet%20Mask.md)
+- **Day 5**
+    - [1. DHCP (Dynamic Host Configuration Protocol)](./Computer%20Networks/Day%205/1.%20DHCP%20(Dynamic%20Host%20Configuration%20Protocol).md)
+    - [2. ICMP (Internet Control Message Protocol)](./Computer%20Networks/Day%205/2.%20ICMP%20(Internet%20Control%20Message%20Protocol).md)
+    - [3. Cisco Router Overview](./Computer%20Networks/Day%205/3.%20Cisco%20Router%20Overview.md)
+    - [4. Cisco IOS (Internetwork Operating System)](./Computer%20Networks/Day%205/4.%20Cisco%20IOS%20(Internetwork%20Operating%20System).md)
+    - [5. Extra](./Computer%20Networks/Day%205/5.%20Extra.md)
+- **Day 6**
+    - [1. Some more commands](./Computer%20Networks/Day%206/1.%20Some%20more%20commands.md)
+    - [2. CDP (Cisco Discovery Protocol)](./Computer%20Networks/Day%206/2.%20CDP%20(Cisco%20Discovery%20Protocol).md)
+    - [3. Backup and Restore](./Computer%20Networks/Day%206/3.%20Backup%20and%20Restore.md)
+    - [4. Telnetting](./Computer%20Networks/Day%206/4.%20Telnetting.md)
+    - [5. Configuring Hosts](./Computer%20Networks/Day%206/5.%20Configuring%20Hosts.md)
+    - [6. Routing](./Computer%20Networks/Day%206/6.%20Routing.md)
+    - [7. Static and Default Routing](./Computer%20Networks/Day%206/7.%20Static%20and%20Default%20Routing.md)
+    - [8. Register Values and Password Recovery](./Computer%20Networks/Day%206/8.%20Register%20Values%20and%20Password%20Recovery.md)
+- **Day 7**
+    - [1. Static Routes](./Computer%20Networks/Day%207/1.%20Static%20Routes.md)
+    - [2. Dynamic Routes](./Computer%20Networks/Day%207/2.%20Dynamic%20Routes.md)
+    - [3. RIP Configuration](./Computer%20Networks/Day%207/3.%20RIP%20Configuration.md)
+    - [4. Drawbacks Of RIP](./Computer%20Networks/Day%207/4.%20Drawbacks%20Of%20RIP.md)
+    - [5. RIP v1 and v2](./Computer%20Networks/Day%207/5.%20RIP%20v1%20and%20v2.md)
+    - [6. Routing Loop](./Computer%20Networks/Day%207/6.%20Routing%20Loop.md)
+    - [7. Timers in RIP](./Computer%20Networks/Day%207/7.%20Timers%20in%20RIP.md)
+    - [8. Routing Table](./Computer%20Networks/Day%207/8.%20Routing%20Table.md)
+- **Day 8**
+    - [1. Link State (Dynamic Routing)](./Computer%20Networks/Day%208/1.%20Link%20State%20(Dynamic%20Routing).md)
+    - [2. OSPF and its Architecture](./Computer%20Networks/Day%208/2.%20OSPF%20and%20its%20Architecture.md)
+    - [3. Deployment of OSPF](./Computer%20Networks/Day%208/3.%20Deployment%20of%20OSPF.md)
+    - [4. OSPF Configuration and Key Concepts](./Computer%20Networks/Day%208/4.%20OSPF%20Configuration%20and%20Key%20Concepts.md)
+    - [5. EIGRP](./Computer%20Networks/Day%208/5.%20EIGRP.md)
+- **Day 9**
+    - [1. Exclusive Features of EIGRP and Commands](./Computer%20Networks/Day%209/1.%20Exclusive%20Features%20of%20EIGRP%20and%20Commands.md)
+    - [2. Switching](./Computer%20Networks/Day%209/2.%20Switching.md)
+    - [3. Spanning Tree Protocol (STP)](./Computer%20Networks/Day%209/3.%20Spanning%20Tree%20Protocol%20(STP).md)
+    - [4. Types of STP](./Computer%20Networks/Day%209/4.%20Types%20of%20STP.md)
+    - [5. Virtual Local Area Network (VLAN)](./Computer%20Networks/Day%209/5.%20Virtual%20Local%20Area%20Network%20(VLAN).md)
+    - [6. VTP (VLAN Trunking Protocol)](./Computer%20Networks/Day%209/6.%20VTP%20(VLAN%20Trunking%20Protocol).md)
+    - [7. Inter-VLAN Connection](./Computer%20Networks/Day%209/7.%20Inter-VLAN%20Connection.md)
+    - [8. IPv4 Header](./Computer%20Networks/Day%209/8.%20IPv4%20Header.md)
+- **Day 10**
+  - [1. Access Control List (ACL)](./Computer%20Networks/Day%2010/1.%20Access%20Control%20List%20(ACL).md)
+  - [2. Standard ACL](./Computer%20Networks/Day%2010/2.%20Standard%20ACL.md)
+  - [3. Golden Rules of ACL](./Computer%20Networks/Day%2010/3.%20Golden%20Rules%20of%20ACL.md)
+  - [4. Extended ACL](./Computer%20Networks/Day%2010/4.%20Extended%20ACL.md)
+  - [5. Named ACL](./Computer%20Networks/Day%2010/5.%20Named%20ACL.md)
+  - [6. Monitoring commands](./Computer%20Networks/Day%2010/6.%20Monitoring%20commands.md)
+  - [7. ACL for Telnetting](./Computer%20Networks/Day%2010/7.%20ACL%20for%20Telnetting.md)
+  - [8. Wide Area Network (WAN)](./Computer%20Networks/Day%2010/8.%20Wide%20Area%20Network%20(WAN).md)
+  - [9. WAN Infrastructure](./Computer%20Networks/Day%2010/9.%20WAN%20Infrastructure.md)
+  - [10. HDLC and SDLC](./Computer%20Networks/Day%2010/10.%20HDLC%20and%20SDLC.md)
+  - [11. Overcoming the Drawbacks of HDLC](./Computer%20Networks/Day%2010/11.%20Overcoming%20the%20Drawbacks%20of%20HDLC.md)
+  - [12. Commands for encapsulating CHAP and PAP](./Computer%20Networks/Day%2010/12.%20Commands%20for%20encapsulating%20CHAP%20and%20PAP.md)
+  - [13. Frame-Relay](./Computer%20Networks/Day%2010/13.%20Frame-Relay.md)
+- **Day 11**
+  - [1. Advantages of Frame-Relay](./Computer%20Networks/Day%2011/1.%20Advantages%20of%20Frame-Relay.md)
+  - [2. Network Address Translation (NAT)](./Computer%20Networks/Day%2011/2.%20Network%20Address%20Translation%20(NAT).md)
+  - [3. Static NAT](./Computer%20Networks/Day%2011/3.%20Static%20NAT.md)
+  - [4. Dynamic NAT](./Computer%20Networks/Day%2011/4.%20Dynamic%20NAT.md)
+  - [5. Dynamic NAT with Overload](./Computer%20Networks/Day%2011/5.%20Dynamic%20NAT%20with%20Overload.md)
+  - [6. IPv6](./Computer%20Networks/Day%2011/6.%20IPv6.md)
+  - [7. Anycast Address](./Computer%20Networks/Day%2011/7.%20Anycast%20Address.md)
+  - [8. IPv6 Enhancements Over IPv4](./Computer%20Networks/Day%2011/8.%20IPv6%20Enhancements%20Over%20IPv4.md)
+  - [9. Site-Local and Link-Local Addresses in IPv6](./Computer%20Networks/Day%2011/9.%20Site-Local%20and%20Link-Local%20Addresses%20in%20IPv6.md)
+  - [10. WLAN (Wireless LAN)](./Computer%20Networks/Day%2011/10.%20WLAN%20(Wireless%20LAN).md)
+- **Day 12**
+  - [1. Security of WLAN and WEP](./Computer%20Networks/Day%2012/1.%20Security%20of%20WLAN%20and%20WEP.md)
+  - [2. WPA (Wi-Fi Protected Access)](./Computer%20Networks/Day%2012/2.%20WPA%20(Wi-Fi%20Protected%20Access).md)
+  - [3. GRE Tunnel](./Computer%20Networks/Day%2012/3.%20GRE%20Tunnel.md)
+  - [4. GRE Tunnel Configuration](./Computer%20Networks/Day%2012/4.%20GRE%20Tunnel%20Configuration.md)
+  - [5. IP Sec (IP Security)](./Computer%20Networks/Day%2012/5.%20IP%20Sec%20(IP%20Security).md)
+
+### Cyber Forensics
+
+- **Day 1**
+  - [1. Other than PPT](./Cyber%20Forensics/Day%201/1.%20Other%20than%20PPT.md)
+  - [2. Important File Locations](./Cyber%20Forensics/Day%201/2.%20Important%20File%20Locations.md)
+  - [3. Assignment](./Cyber%20Forensics/Day%201/3.%20Assignment.md)
+- **Day 2**
+  - [1. Incident Response Plan](./Cyber%20Forensics/Day%202/1.%20Incident%20Response%20Plan.md)
+  - [2. Cyber Forensics Essentials](./Cyber%20Forensics/Day%202/2.%20Cyber%20Forensics%20Essentials.md)
+  - [3. HTTPS and SSH Encryption](./Cyber%20Forensics/Day%202/3.%20HTTPS%20and%20SSH%20Encryption.md)
+  - [4. Extra](./Cyber%20Forensics/Day%202/4.%20Extra.md)
+- **Day 3**
+  - [1. Disk imaging in Cyber Forensics](./Cyber%20Forensics/Day%203/1.%20Disk%20imaging%20in%20Cyber%20Forensics.md)
+  - [2. Memory Forensics](./Cyber%20Forensics/Day%203/2.%20Memory%20Forensics.md)
+  - [3. Assignment](./Cyber%20Forensics/Day%203/3.%20Assignment.md)
+  - [4. Extra](./Cyber%20Forensics/Day%203/4.%20Extra.md)
+- **Day 4**
+  - [1. Memory Forensics](./Cyber%20Forensics/Day%204/1.%20Memory%20Forensics.md)
+  - [2. CCEE alike questions](./Cyber%20Forensics/Day%204/2.%20CCEE%20alike%20questions.md)
+
+### NDC & PKI (Network Defense & Public Key Infrastructure)
+
+- **Day 1**
+  - [1. Overview and Revision](./NDC%20&%20PKI/Day%201/1.%20Overview%20and%20Revision.md)
+  - [2. Information Security](./NDC%20&%20PKI/Day%201/2.%20Information%20Security.md)
+  - [3. Software Vulnerabilities](./NDC%20&%20PKI/Day%201/3.%20Software%20Vulnerabilities.md)
+  - [4. Wireshark](./NDC%20&%20PKI/Day%201/4.%20Wireshark.md)
+  - [5. Hash Function](./NDC%20&%20PKI/Day%201/5.%20Hash%20Function.md)
+  - [6. TCPdump](./NDC%20&%20PKI/Day%201/6.%20TCPdump.md)
+  - [7. Extra](./NDC%20&%20PKI/Day%201/7.%20Extra.md)
+- **Day 2**
+  - [1. Overview of SNORT](./NDC%20&%20PKI/Day%202/1.%20Overview%20of%20SNORT.md)
+  - [2. SNORT Setup](./NDC%20&%20PKI/Day%202/2.%20SNORT%20Setup.md)
+  - [3. SNORT Rules](./NDC%20&%20PKI/Day%202/3.%20SNORT%20Rules.md)
+  - [4. Network Adapters in VMWare](./NDC%20&%20PKI/Day%202/4.%20Network%20Adapters%20in%20VMWare.md)
+  - [5. SYSLOG Server](./NDC%20&%20PKI/Day%202/5.%20SYSLOG%20Server.md)
+  - [6. Setting up a new Debian Machine](./NDC%20&%20PKI/Day%202/6.%20Setting%20up%20a%20new%20Debian%20Machine.md)
+  - [7. Extra](./NDC%20&%20PKI/Day%202/7.%20Extra.md)
+- **Day 3**
+  - [1. Introduction to Cryptography](./NDC%20&%20PKI/Day%203/1.%20Introduction%20to%20Cryptography.md)
+  - [2. Encryption Methods](./NDC%20&%20PKI/Day%203/2.%20Encryption%20Methods.md)
+  - [3. Encryption Schemes](./NDC%20&%20PKI/Day%203/3.%20Encryption%20Schemes.md)
+  - [4. Monitoring Health of a Machine](./NDC%20&%20PKI/Day%203/4.%20Monitoring%20Health%20of%20a%20Machine.md)
+  - [5. Package Installation in Linux](./NDC%20&%20PKI/Day%203/5.%20Package%20Installation%20in%20Linux.md)
+  - [6. Nagios Setup](./NDC%20&%20PKI/Day%203/6.%20Nagios%20Setup.md)
+  - [7. Installing the Nagios Plugins](./NDC%20&%20PKI/Day%203/7.%20Installing%20the%20Nagios%20Plugins.md)
+  - [8. PKI Lab (Encryption and Decryption)](./NDC%20&%20PKI/Day%203/8.%20PKI%20Lab%20(Encryption%20and%20Decryption).md)
+  - [9. Extra](./NDC%20&%20PKI/Day%203/9.%20Extra.md)
+- **Day 4**
+  - [1. Asymmetric Encryption Schemes](./NDC%20&%20PKI/Day%204/1.%20Asymmetric%20Encryption%20Schemes.md)
+  - [2. Diffie-Hellman Key Exchange](./NDC%20&%20PKI/Day%204/2.%20Diffie-Hellman%20Key%20Exchange.md)
+  - [3. Network Configuration Scenario](./NDC%20&%20PKI/Day%204/3.%20Network%20Configuration%20Scenario.md)
+  - [4. Remote Machine Monitoring (Nagios)](./NDC%20&%20PKI/Day%204/4.%20Remote%20Machine%20Monitoring%20(Nagios).md)
+  - [5. Reverse Proxy Setup with Nginx and Apache](./NDC%20&%20PKI/Day%204/5.%20Reverse%20Proxy%20Setup%20with%20Nginx%20and%20Apache.md)
+  - [6. SQUID](./NDC%20&%20PKI/Day%204/6.%20SQUID.md)
+  - [7. Extra](./NDC%20&%20PKI/Day%204/7.%20Extra.md)
+- **Day 5**
+  - [1. Virtual Private Network (VPN)](./NDC%20&%20PKI/Day%205/1.%20Virtual%20Private%20Network%20(VPN).md)
+  - [2. Types of VPN](./NDC%20&%20PKI/Day%205/2.%20Types%20of%20VPN.md)
+  - [3. OpenVPN Setup](./NDC%20&%20PKI/Day%205/3.%20OpenVPN%20Setup.md)
+  - [4. Working of VPN](./NDC%20&%20PKI/Day%205/4.%20Working%20of%20VPN.md)
+  - [5. Sharing Internet Access Between VMs Using Clear OS](./NDC%20&%20PKI/Day%205/5.%20Sharing%20Internet%20Access%20Between%20VMs%20Using%20Clear%20OS.md)
+  - [6. Message Authentication Code](./NDC%20&%20PKI/Day%205/6.%20Message%20Authentication%20Code.md)
+  - [7. Squid as a Load Balancer](./NDC%20&%20PKI/Day%205/7.%20Squid%20as%20a%20Load%20Balancer.md)
+  - [8. Monitoring a Remote Linux Machine using Nagios](./NDC%20&%20PKI/Day%205/8.%20Monitoring%20a%20Remote%20Linux%20Machine%20using%20Nagios.md)
+  - [9. Extra](./NDC%20&%20PKI/Day%205/9.%20Extra.md)
+- **Day 6**
+  - [1. Firewall and its Types](./NDC%20&%20PKI/Day%206/1.%20Firewall%20and%20its%20Types.md)
+  - [2. iptables](./NDC%20&%20PKI/Day%206/2.%20iptables.md)
+  - [3. iptables LAB](./NDC%20&%20PKI/Day%206/3.%20iptables%20LAB.md)
+  - [4. Installing and Configuring pfSense with Debian Machines](./NDC%20&%20PKI/Day%206/4.%20Installing%20and%20Configuring%20pfSense%20with%20Debian%20Machines.md)
+  - [5. Extra](./NDC%20&%20PKI/Day%206/5.%20Extra.md)
+- **Day 7**
+  - [1. Public Key Infrastructure (PKI)](./NDC%20&%20PKI/Day%207/1.%20Public%20Key%20Infrastructure%20(PKI).md)
+  - [2. Security Threats and Defense Mechanisms](./NDC%20&%20PKI/Day%207/2.%20Security%20Threats%20and%20Defense%20Mechanisms.md)
+  - [3. LAB 1 Monitoring SSH Logs Using OSSIM](./NDC%20&%20PKI/Day%207/3.%20LAB%201%20Monitoring%20SSH%20Logs%20Using%20OSSIM.md)
+  - [4. LAB 2 Setting Up a VPN on Windows Server](./NDC%20&%20PKI/Day%207/4.%20LAB%202%20Setting%20Up%20a%20VPN%20on%20Windows%20Server.md)
+  - [5. LAB 3 GeoIP Traffic Filtering and Logging](./NDC%20&%20PKI/Day%207/5.%20LAB%203%20GeoIP%20Traffic%20Filtering%20and%20Logging.md)
+  - [6. Extra](./NDC%20&%20PKI/Day%207/6.%20Extra.md)
+- **Day 8**
+  - [1. PKI using XCA (LAB 1)](./NDC%20&%20PKI/Day%208/1.%20PKI%20using%20XCA%20(LAB%201).md)
+  - [2. SNORT on Linux (LAB 2)](./NDC%20&%20PKI/Day%208/2.%20SNORT%20on%20Linux%20(LAB%202).md)
+  - [3. Implementing Fail2Ban for SSH Protection on Linux (LAB 3)](./NDC%20&%20PKI/Day%208/3.%20Implementing%20Fail2Ban%20for%20SSH%20Protection%20on%20Linux%20(LAB%203).md)
+  - [4. IPTABLES and Chains](./NDC%20&%20PKI/Day%208/4.%20IPTABLES%20and%20Chains.md)
+  - [5. Full Tunnel and Split Tunnel VPN](./NDC%20&%20PKI/Day%208/5.%20Full%20Tunnel%20and%20Split%20Tunnel%20VPN.md)
+  - [6. Modern Security Architectures and Authentication Protocols](./NDC%20&%20PKI/Day%208/6.%20Modern%20Security%20Architectures%20and%20Authentication%20Protocols.md)
+  - [7. IP Forwarding and NAT Configuration (LAB 4)](./NDC%20&%20PKI/Day%208/7.%20IP%20Forwarding%20and%20NAT%20Configuration%20(LAB%204).md)
+  - [8. Extra](./NDC%20&%20PKI/Day%208/8.%20Extra.md)
+- **Day 9**
+  - [1. PKI Lab in Short (XCA)](./NDC%20&%20PKI/Day%209/1.%20PKI%20Lab%20in%20Short%20(XCA).md)
+  - [2. Secure Email Connection in Thunder Bird Using PKI](./NDC%20&%20PKI/Day%209/2.%20Secure%20Email%20Connection%20in%20Thunder%20Bird%20Using%20PKI.md)
+  - [3. Port forwarding using PREROUTING chain](./NDC%20&%20PKI/Day%209/3.%20Port%20forwarding%20using%20PREROUTING%20chain.md)
+  - [4. BARNYARD2 and SNORT](./NDC%20&%20PKI/Day%209/4.%20BARNYARD2%20and%20SNORT.md)
+  - [5. Suricata](./NDC%20&%20PKI/Day%209/5.%20Suricata.md)
+  - [6. Blockchain](./NDC%20&%20PKI/Day%209/6.%20Blockchain.md)
+  - [7. Extra](./NDC%20&%20PKI/Day%209/7.%20Extra.md)
+- **Day 10**
+  - [1. PKI Lab using OpenSSL in CLI](./NDC%20&%20PKI/Day%2010/1.%20PKI%20Lab%20using%20OpenSSL%20in%20CLI.md)
+  - [2. IDS (Intrusion Detection System)](./NDC%20&%20PKI/Day%2010/2.%20IDS%20(Intrusion%20Detection%20System).md)
+  - [3. NFQueue and the IPS mode of Suricata](./NDC%20&%20PKI/Day%2010/3.%20NFQueue%20and%20the%20IPS%20mode%20of%20Suricata.md)
+  - [4. Elasticsearch Logstash Kibana (ELK)](./NDC%20&%20PKI/Day%2010/4.%20Elasticsearch%20Logstash%20Kibana%20(ELK).md)
+  - [5. DNS Config(Detailed)](./NDC%20&%20PKI/Day%2010/5.DNS%20Config(Detailed).md)
+- **Day 11**
+  - [1. Logstash](./NDC%20&%20PKI/Day%2011/1.%20Logstash.md)
+  - [2. LAB Logstash and Kibana](./NDC%20&%20PKI/Day%2011/2.%20LAB%20Logstash%20and%20Kibana.md)
+  - [3. IPSec](./NDC%20&%20PKI/Day%2011/3.%20IPSec.md)
+  - [4. Nagios Lab with Email Alert](./NDC%20&%20PKI/Day%2011/4.%20Nagios%20Lab%20with%20Email%20Alert.md)
+  - [5. Extra](./NDC%20&%20PKI/Day%2011/5.%20Extra.md)
+- **Day 12**
+  - [1. Adding another client PKI Lab](./NDC%20&%20PKI/Day%2012/1.%20Adding%20another%20client%20PKI%20Lab.md)
+  - [2. Some Theory Topics](./NDC%20&%20PKI/Day%2012/2.%20Some%20Theory%20Topics.md)
+  - [3. NAT (Network Address Translation)](./NDC%20&%20PKI/Day%2012/3.%20NAT%20(Network%20Address%20Translation).md)
+  - [Extra](./NDC%20&%20PKI/Day%2012/Extra.md)
+
+### Operating Systems & Administration
+
+- [DNS Heirarchy](./Operating%20Systems%20&%20Administration/DNS%20Heirarchy.md)
+- **Day 1**
+  - [1. Operating System](./Operating%20Systems%20&%20Administration/Day%201/1.%20Operating%20System.md)
+  - [2. Functions of Operating System](./Operating%20Systems%20&%20Administration/Day%201/2.%20Functions%20of%20Operating%20System.md)
+  - [3. File Management](./Operating%20Systems%20&%20Administration/Day%201/3.%20File%20Management.md)
+  - [4. File System](./Operating%20Systems%20&%20Administration/Day%201/4.%20File%20System.md)
+  - [5. Linux File Structure](./Operating%20Systems%20&%20Administration/Day%201/5.%20Linux%20File%20Structure.md)
+  - [6. User Interfacing](./Operating%20Systems%20&%20Administration/Day%201/6.%20User%20Interfacing.md)
+  - [7. Some Basic Commands](./Operating%20Systems%20&%20Administration/Day%201/7.%20Some%20Basic%20Commands.md)
+- **Day 2**
+  - [1. More about File Systems](./Operating%20Systems%20&%20Administration/Day%202/1.%20More%20about%20File%20Systems.md)
+  - [2. Some more commands](./Operating%20Systems%20&%20Administration/Day%202/2.%20Some%20more%20commands.md)
+  - [3. Process Management](./Operating%20Systems%20&%20Administration/Day%202/3.%20Process%20Management.md)
+  - [4. Executable File](./Operating%20Systems%20&%20Administration/Day%202/4.%20Executable%20File.md)
+  - [5. Process Life Cycle](./Operating%20Systems%20&%20Administration/Day%202/5.%20Process%20Life%20Cycle.md)
+  - [6. Some more commands](./Operating%20Systems%20&%20Administration/Day%202/6.%20Some%20more%20commands.md)
+  - [7. Redirection](./Operating%20Systems%20&%20Administration/Day%202/7.%20Redirection.md)
+- **Day 3**
+  - [1. Revision](./Operating%20Systems%20&%20Administration/Day%203/1.%20Revision.md)
+  - [2. Redirection](./Operating%20Systems%20&%20Administration/Day%203/2.%20Redirection.md)
+  - [3. Pipes](./Operating%20Systems%20&%20Administration/Day%203/3.%20Pipes.md)
+  - [4. Some more commands](./Operating%20Systems%20&%20Administration/Day%203/4.%20Some%20more%20commands.md)
+- **Day 4**
+  - [1. Few more Commands](./Operating%20Systems%20&%20Administration/Day%204/1.%20Few%20more%20Commands.md)
+  - [3. Types of Operating System](./Operating%20Systems%20&%20Administration/Day%204/3.%20Types%20of%20Operating%20System.md)
+  - [4. Grep (GNU Regular Expression Parser)](./Operating%20Systems%20&%20Administration/Day%204/4.%20Grep%20(GNU%20Regular%20Expression%20Parser).md)
+  - [5. Steps for VIM](./Operating%20Systems%20&%20Administration/Day%204/5.%20Steps%20for%20VIM.md)
+- **Day 5**
+  - [1. Commands](./Operating%20Systems%20&%20Administration/Day%205/1.%20Commands.md)
+  - [2. VI Editor](./Operating%20Systems%20&%20Administration/Day%205/2.%20VI%20Editor.md)
+  - [3. Shell Scripting or Shell Programming](./Operating%20Systems%20&%20Administration/Day%205/3.%20Shell%20Scripting%20or%20Shell%20Programming.md)
+- **Day 6**
+  - [1. Spacing in Shell Scripting](./Operating%20Systems%20&%20Administration/Day%206/1.%20%20Spacing%20in%20Shell%20Scripting.md)
+  - [2. Types of Kernel](./Operating%20Systems%20&%20Administration/Day%206/2.%20Types%20of%20Kernel.md)
+  - [3. Shell Scripting again](./Operating%20Systems%20&%20Administration/Day%206/3.%20Shell%20Scripting%20again.md)
+- **Day 7**
+  - [1. Dual Mode Operation of OS](./Operating%20Systems%20&%20Administration/Day%207/1.%20Dual%20Mode%20Operation%20of%20OS.md)
+  - [2. Hard Link and Symbolic Link](./Operating%20Systems%20&%20Administration/Day%207/2.%20Hard%20Link%20and%20Symbolic%20Link.md)
+  - [3. Back to Shell Scripting](./Operating%20Systems%20&%20Administration/Day%207/3.%20Back%20to%20Shell%20Scripting.md)
+
+### Security Concepts
+
+- [Mobile Security](./Security%20Concepts/Mobile%20Security.pdf)
+- [Steps and Commands](./Security%20Concepts/Steps%20and%20Commands.md)
+- [Syllabus Coverage](./Security%20Concepts/Syllabus%20Coverage.md)
+- [Web Application Security](./Security%20Concepts/Web%20Application%20Security.pdf)
+- **Day 1**
+  - [1. FCN Revision](./Security%20Concepts/Day%201/1.%20FCN%20Revision.md)
+  - [2. COSA Revision](./Security%20Concepts/Day%201/2.%20COSA%20Revision.md)
+  - [3. Understanding Security and the CIA Triad](./Security%20Concepts/Day%201/3.%20Understanding%20Security%20and%20the%20CIA%20Triad.md)
+  - [4. Network Adapters in VMware](./Security%20Concepts/Day%201/4.%20Network%20Adapters%20in%20VMware.md)
+  - [5. Extra](./Security%20Concepts/Day%201/5.%20Extra.md)
+- **Day 2**
+  - [1. Internal Network](./Security%20Concepts/Day%202/1.%20Internal%20Network.md)
+  - [2. Bridged Network](./Security%20Concepts/Day%202/2.%20Bridged%20Network.md)
+  - [3. Host-Only](./Security%20Concepts/Day%202/3.%20Host-Only.md)
+  - [4. NAT](./Security%20Concepts/Day%202/4.%20NAT.md)
+  - [5. NAT Network](./Security%20Concepts/Day%202/5.%20NAT%20Network.md)
+  - [6. Understanding Phishing Attacks](./Security%20Concepts/Day%202/6.%20Understanding%20Phishing%20Attacks.md)
+  - [7. Extra](./Security%20Concepts/Day%202/7.%20Extra.md)
+- **Day 3**
+  - [1. Social Engineering Attacks](./Security%20Concepts/Day%203/1.%20Social%20Engineering%20Attacks.md)
+  - [2. Types of SE Attacks](./Security%20Concepts/Day%203/2.%20Types%20of%20SE%20Attacks.md)
+  - [3. Social Presence and Its Role in Social Engineering](./Security%20Concepts/Day%203/3.%20Social%20Presence%20and%20Its%20Role%20in%20Social%20Engineering.md)
+  - [4. Extra](./Security%20Concepts/Day%203/4.%20Extra.md)
+- **Day 4**
+  - [1. Web App Security Vulnerabilities and Attacks](./Security%20Concepts/Day%204/1.%20Web%20App%20Security%20Vulnerabilities%20and%20Attacks.md)
+  - [2. Bypassing OTP Verification](./Security%20Concepts/Day%204/2.%20Bypassing%20OTP%20Verification.md)
+  - [3. Assignment (DNS Spoofing)](./Security%20Concepts/Day%204/3.%20Assignment%20(DNS%20Spoofing).md)
+  - [4. Extra](./Security%20Concepts/Day%204/4.%20Extra.md)
+- **Day 5**
+  - [1. Web Exploits XSS and Command Injection](./Security%20Concepts/Day%205/1.%20Web%20Exploits%20XSS%20and%20Command%20Injection.md)
+  - [2. HTTP Redirection and Server Configuration](./Security%20Concepts/Day%205/2.%20HTTP%20Redirection%20and%20Server%20Configuration.md)
+- **Day 6**
+  - [1. Phishing and Information Gathering](./Security%20Concepts/Day%206/1.%20Phishing%20and%20Information%20Gathering.md)
+  - [2. Android Hacking with Kali Linux (.apk Payload)](./Security%20Concepts/Day%206/2.%20Android%20Hacking%20with%20Kali%20Linux%20(.apk%20Payload).md)
+- **Day 7**
+  - [1. Traffic Analysis with Android Emulator and Kali Linux in VirtualBox](./Security%20Concepts/Day%207/1.%20Traffic%20Analysis%20with%20Android%20Emulator%20and%20Kali%20Linux%20in%20VirtualBox.md)
+  - [2. Windows XP Meterpreter Attack Using Kali Linux](./Security%20Concepts/Day%207/2.%20Windows%20XP%20Meterpreter%20Attack%20Using%20Kali%20Linux.md)
+  - [3. Security Testing](./Security%20Concepts/Day%207/3.%20Security%20Testing.md)
+  - [4. Overview of Security Testing and VAPT](./Security%20Concepts/Day%207/4.%20Overview%20of%20Security%20Testing%20and%20VAPT.md)
+- **Day 8**
+  - [1. VAPT Phase 1 Planning](./Security%20Concepts/Day%208/1.%20VAPT%20Phase%201%20Planning.md)
+  - [2. VAPT Phase 2 Information Gathering (Reconnaissance)](./Security%20Concepts/Day%208/2.%20VAPT%20Phase%202%20Information%20Gathering%20(Reconnaissance).md)
+  - [3. Recon-ng Setup](./Security%20Concepts/Day%208/3.%20Recon-ng%20Setup.md)
+  - [4. Hacking the Wi-Fi](./Security%20Concepts/Day%208/4.%20Hacking%20the%20Wi-Fi.md)
+  - [5. Creating your own password list](./Security%20Concepts/Day%208/5.%20Creating%20your%20own%20password%20list.md)
+- **Day 9**
+  - [1. File Inclusion in DVWA](./Security%20Concepts/Day%209/1.%20File%20Inclusion%20in%20DVWA.md)
+  - [2. XSS Types](./Security%20Concepts/Day%209/2.%20XSS%20Types.md)
+  - [3. ZAP (Zed Attacking Proxy)](./Security%20Concepts/Day%209/3.%20ZAP%20(Zed%20Attacking%20Proxy).md)
+  - [4. Some Practice Material](./Security%20Concepts/Day%209/4.%20Some%20Practice%20Material.md)
+  - [5. DoS using hping3](./Security%20Concepts/Day%209/5.%20DoS%20using%20hping3.md)
+  - [6. macof](./Security%20Concepts/Day%209/6.%20macof.md)
+  - [7. Extra](./Security%20Concepts/Day%209/7.%20Extra.md)
+- **Day 10**
+  - [1. Tools for Security Analysis](./Security%20Concepts/Day%2010/1.%20%20Tools%20for%20Security%20Analysis.md)
+  - [2. nmap](./Security%20Concepts/Day%2010/2.%20nmap.md)
+  - [3. Unauthorized Activity & Cyber Crime](./Security%20Concepts/Day%2010/3.%20Unauthorized%20Activity%20&%20Cyber%20Crime.md)
+  - [4. IT Act 2000 (Information Technology Act)](./Security%20Concepts/Day%2010/4.%20IT%20Act%202000%20(Information%20Technology%20Act).md)
+  - [5. Extra](./Security%20Concepts/Day%2010/5.%20Extra.md)
+- **Day 11**
+  - [1. What is Threat Modelling](./Security%20Concepts/Day%2011/1.%20What%20is%20Threat%20Modelling.md)
+  - [2. More about nmap](./Security%20Concepts/Day%2011/2.%20More%20about%20nmap.md)
+  - [3. Ethical Hacking](./Security%20Concepts/Day%2011/3.%20Ethical%20Hacking.md)
+  - [4. Extra](./Security%20Concepts/Day%2011/4.%20Extra.md)
+- **Day 12**
+  - [1. SSH Password Cracking Brute Force](./Security%20Concepts/Day%2012/1.%20SSH%20Password%20Cracking%20Brute%20Force.md)
+  - [2. Cracking ZIP file password using fcrackzip](./Security%20Concepts/Day%2012/2.%20Cracking%20ZIP%20file%20password%20using%20fcrackzip.md)
+  - [3. DoS using msfconsole](./Security%20Concepts/Day%2012/3.%20DoS%20using%20msfconsole.md)
+  - [4. Nessus](./Security%20Concepts/Day%2012/4.%20Nessus.md)
+  - [5. OWASP Mobile](./Security%20Concepts/Day%2012/5.%20OWASP%20Mobile.md)
+  - [6. Extra](./Security%20Concepts/Day%2012/6.%20Extra.md)
+
+### Windows Administration
+
+- **Day 1**
+  - [1. Windows OS](./Windows%20Administration/Day%201/1.%20Windows%20OS.md)
+  - [2. Virtualization](./Windows%20Administration/Day%201/2.%20Virtualization.md)
+- **Day 2**
+  - [1. Revision](./Windows%20Administration/Day%202/1.%20Revision.md)
+  - [2. User management](./Windows%20Administration/Day%202/2.%20User%20management.md)
+  - [3. Active Directory](./Windows%20Administration/Day%202/3.%20Active%20Directory.md)
+- **Day 3**
+  - [1. Trust](./Windows%20Administration/Day%203/1.%20Trust.md)
+  - [2. Domain Naming System (DNS)](./Windows%20Administration/Day%203/2.%20Domain%20Naming%20System%20(DNS).md)
+- **Day 4**
+  - [1. Revise](./Windows%20Administration/Day%204/1.%20Revise.md)
+  - [2.](./Windows%20Administration/Day%204/2..md)
+  - [2.](./Windows%20Administration/Day%204/2..md)
+
+### Windows Administration Revision
+
+- [01 Introduction and Installation](./Windows%20Administration%20Revision/01_Introduction_and_Installation.md)
+- [02 Network Configuration](./Windows%20Administration%20Revision/02_Network_Configuration.md)
+- [03 File System and Disk Management](./Windows%20Administration%20Revision/03_File_System_and_Disk_Management.md)
+- [04 Active Directory](./Windows%20Administration%20Revision/04_Active_Directory.md)
+- [05 Security Maintenance and Troubleshooting](./Windows%20Administration%20Revision/05_Security_Maintenance_and_Troubleshooting.md)
+- [06 PowerShell and Automation](./Windows%20Administration%20Revision/06_PowerShell_and_Automation.md)
+
+### Must Knows
+
+- [Linux basic cybersecurity commands](./mustknows/Linux%20basic%20cybersecurity%20commands.md)
+- [Port numbers](./mustknows/Port%20numbers.md)
+- [README](./mustknows/README.md)
+- [Linux Cheat Sheet](./mustknows/Linux-cheat-sheet-master)
+
+### CCNA Notes
+
+### CCNA Notes
+
+- [Ansible, Puppet, Chef](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Ansible_Puppet_Chef.md)
+- [CDP and LLDP](./CCNA_notes/CCNA_Course_Notes/Course_Notes/CDP_and_LLDP.md)
+- [DHCP Snooping](./CCNA_notes/CCNA_Course_Notes/Course_Notes/DHCP_Snooping.md)
+- [DHCP](./CCNA_notes/CCNA_Course_Notes/Course_Notes/DHCP.md)
+- [DNS](./CCNA_notes/CCNA_Course_Notes/Course_Notes/DNS.md)
+- [DTP, VTP](./CCNA_notes/CCNA_Course_Notes/Course_Notes/DTP_VTP.md)
+- [Dynamic Arp Inspection](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Dynamic_Arp_Inspection.md)
+- [DynamicRouting](./CCNA_notes/CCNA_Course_Notes/Course_Notes/DynamicRouting.md)
+- [Etherchannel](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Etherchannel.md)
+- [Ethernet LAN Switching Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Ethernet_LAN_Switching_Part1.md)
+- [Ethernet LAN Switching Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Ethernet_LAN_Switching_Part2.md)
+- [Extended Access Control Lists](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Extended_Access_Control_Lists.md)
+- [First Hop Redundancy Protocols](./CCNA_notes/CCNA_Course_Notes/Course_Notes/First_Hop_Redundancy_Protocols.md)
+- [FTP and TFTP](./CCNA_notes/CCNA_Course_Notes/Course_Notes/FTP_and_TFTP.md)
+- [Interfaces and Cables](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Interfaces_and_Cables.md)
+- [Intro to CLI](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Intro_to_CLI.md)
+- [Introduction to Network Automation](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Introduction_to_Network_Automation.md)
+- [IPv4 Addressing Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/IPv4_Addressing_Part1.md)
+- [IPv4 Addressing Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/IPv4_Addressing_Part2.md)
+- [IPv6 Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/IPv6_Part1.md)
+- [IPv6 Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/IPv6_Part2.md)
+- [IPv6 Part3](./CCNA_notes/CCNA_Course_Notes/Course_Notes/IPv6_Part3.md)
+- [JSON, XML, YAML](./CCNA_notes/CCNA_Course_Notes/Course_Notes/JSON_XML_YAML.md)
+- [LAN Architectures](./CCNA_notes/CCNA_Course_Notes/Course_Notes/LAN_Architectures.md)
+- [Life of a Packet](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Life_of_a_Packet.md)
+- [NAT Dynamic Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/NAT_Dynamic_Part2.md)
+- [NAT Static Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/NAT_Static_Part1.md)
+- [Network Devices](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Network_Devices.md)
+- [NTP](./CCNA_notes/CCNA_Course_Notes/Course_Notes/NTP.md)
+- [OSI Model TCPSuite](./CCNA_notes/CCNA_Course_Notes/Course_Notes/OSI_Model_TCPSuite.md)
+- [OSPF Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/OSPF_Part1.md)
+- [OSPF Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/OSPF_Part2.md)
+- [OSPF Part3](./CCNA_notes/CCNA_Course_Notes/Course_Notes/OSPF_Part3.md)
+- [Port Security](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Port_Security.md)
+- [QoS Quality of Service](./CCNA_notes/CCNA_Course_Notes/Course_Notes/QoS_Quality_of_Service.md)
+- [QoS VoiceLan](./CCNA_notes/CCNA_Course_Notes/Course_Notes/QoS_VoiceLan.md)
+- [Rapid Spanning Tree Protocol](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Rapid_Spanning_Tree_Protocol.md)
+- [REST APIs](./CCNA_notes/CCNA_Course_Notes/Course_Notes/REST_APIs.md)
+- [RIP and EIGRP](./CCNA_notes/CCNA_Course_Notes/Course_Notes/RIP_and_EIGRP.md)
+- [Routing Fundamentals Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Routing_Fundamentals_Part1.md)
+- [Security Fundamentals](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Security_Fundamentals.md)
+- [SNMP](./CCNA_notes/CCNA_Course_Notes/Course_Notes/SNMP.md)
+- [Software Defined Networking](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Software_Defined_Networking.md)
+- [Spanning Tree Protocol Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Spanning_Tree_Protocol_Part1.md)
+- [Spanning Tree Protocol Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Spanning_Tree_Protocol_Part2.md)
+- [SSH](./CCNA_notes/CCNA_Course_Notes/Course_Notes/SSH.md)
+- [Standard Access Control Lists](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Standard_Access_Control_Lists.md)
+- [Static Routing Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Static_Routing_Part2.md)
+- [Subnetting Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Subnetting_Part1.md)
+- [Subnetting Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Subnetting_Part2.md)
+- [Subnetting VLSM Part3](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Subnetting_VLSM_Part3.md)
+- [Switch Interfaces](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Switch_Interfaces.md)
+- [SYSLOG](./CCNA_notes/CCNA_Course_Notes/Course_Notes/SYSLOG.md)
+- [TCP and UDP](./CCNA_notes/CCNA_Course_Notes/Course_Notes/TCP_and_UDP.md)
+- [The IPv4 Header](./CCNA_notes/CCNA_Course_Notes/Course_Notes/The_IPv4_Header.md)
+- [Virtualization Containers](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Virtualization_Containers.md)
+- [Virtualization VRF Part3](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Virtualization_VRF_Part3.md)
+- [Virtualizations and Cloud Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Virtualizations_and_Cloud_Part1.md)
+- [VLAN Part1](./CCNA_notes/CCNA_Course_Notes/Course_Notes/VLAN_Part1.md)
+- [VLAN Part2](./CCNA_notes/CCNA_Course_Notes/Course_Notes/VLAN_Part2.md)
+- [VLAN Part3](./CCNA_notes/CCNA_Course_Notes/Course_Notes/VLAN_Part3.md)
+- [WAN Architectures](./CCNA_notes/CCNA_Course_Notes/Course_Notes/WAN_Architectures.md)
+- [Wireless Architecutres](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Wireless_Architecutres.md)
+- [Wireless Configuration](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Wireless_Configuration.md)
+- [Wireless Fundamentals](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Wireless_Fundamentals.md)
+- [Wireless Security](./CCNA_notes/CCNA_Course_Notes/Course_Notes/Wireless_Security.md)
+
+### RapidSheet Answers
+
+- [COSA(Concepts of Operating Systems)](./RapidSheet_Answers/COSA(Concepts%20of%20Operating%20Systems).md)
+- [Human Resource](./RapidSheet_Answers/Human%20Resource.md)
+- [IITM and DEVOPS](./RapidSheet_Answers/IITM%20and%20DEVOPS.md)
+- [Network Defence and Countermeasure](./RapidSheet_Answers/Network%20Defence%20and%20Countermeasure.md)
+- [Project Interview Questions](./RapidSheet_Answers/Project%20Interview%20Questions.md)
