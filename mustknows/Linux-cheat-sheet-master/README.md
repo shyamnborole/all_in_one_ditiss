@@ -430,7 +430,7 @@ ifconfig -a
 4.  **Active ports:** Shows active or listening ports
 
      ```cmd
-     netstat -tulpn
+     netstat -pnltu
      ```
 
 5.  **Find information about domain:** `whois` command is used to find out information about a domain, such as the owner of the domain, the owner’s contact information, and the nameservers used by domain.
@@ -1027,13 +1027,13 @@ O    # open a line above the current cursor position
 top: The `top` command provides dynamic real-time viewing of the running system. It can display system summary information as well as a list of tasks currently being managed by the Linux kernel.
 
 #### options
-| Option | Description               |
-| ------ | ------------------------- |
-| -b     | Batch mode                |
-| -n     | Number of iterations      |
-| -s     | Sec delay between updates |
-| -d     | Delay time in seconds     |
-| -p     | Monitor process ID        |
+| Option | Description                              |
+|--------|------------------------------------------|
+| -b     | Batch mode                               |
+| -n     | Number of iterations                     |
+| -s     | Sec delay between updates                |
+| -d     | Delay time in seconds                    |
+| -p     | Monitor process ID                       |
 
 ```cmd
 top [options]

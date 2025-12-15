@@ -10,7 +10,7 @@
   "showTime": true,
   "timeFormat": "12-hour",
   "showGreeting": true,
-  "greetingText": "Hello, Shyam.",
+  "greetingText": "Hello, Ojas.",
   "showInlineSearch": true,
   "inlineSearchProvider": {
     "command": "switcher:open",
