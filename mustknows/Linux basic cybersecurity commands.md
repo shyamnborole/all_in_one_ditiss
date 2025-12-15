@@ -399,5 +399,3 @@ This expanded list now includes essential system information commands that are c
 - **Resource monitoring** for DoS detection
 
 Master these 25+ commands and you'll have comprehensive coverage for most cybersecurity tasks on Linux systems!
-
- `resolvectl status` for checking dns related entries.
