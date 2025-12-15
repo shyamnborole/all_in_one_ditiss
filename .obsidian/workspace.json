@@ -25,12 +25,14 @@
             "id": "b11ced2135074968",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Networking Cheatsheet/CCNA-CheatSheet.pdf"
+                "file": "mustknows/Linux basic cybersecurity commands.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CCNA-CheatSheet"
+              "icon": "lucide-file",
+              "title": "Linux basic cybersecurity commands"
             }
           }
         ],
@@ -192,8 +194,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b11ced2135074968",
+  "active": "4514940282d85d3c",
   "lastOpenFiles": [
+    "Networking Cheatsheet/CCNA-CheatSheet.pdf",
+    "Networking Cheatsheet",
     "mustknows/Linux basic cybersecurity commands.md",
     "mustknows/Linux-cheat-sheet-master/README.md",
     "CCNA_notes/RIP_and_EIGRP.md",
@@ -216,14 +220,11 @@
     "Windows Administration Revision/04_Active_Directory.md",
     "Windows Administration Revision/03_File_System_and_Disk_Management.md",
     "Windows Administration Revision/01_Introduction_and_Installation.md",
-    "Networking Cheatsheet/CCNA-CheatSheet.pdf",
     "Operating Systems & Administration/Day 1/3. File Management.md",
     "Windows Administration/Day 1/2. Virtualization.md",
     "Operating Systems & Administration/Day 1/2. Functions of Operating System.md",
     "CCNA_notes/Standard_Access_Control_Lists.md",
     "Networking Cheatsheet/Untitled",
-    "Networking Cheatsheet",
-    "CCNA_notes/index.md",
     "Security Concepts/Web Application Security.pdf",
     "Untitled 2.base",
     "Untitled 1.base",
